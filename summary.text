@@ -1,0 +1,54 @@
+"\nSummary
+:\nintent of the call:\n- The customer called to inquire about a refill for sildenafil.
+
+\n\nsteps taken by agent:
+\n- Agent verified the customer's address.
+\n- Agent checked the refill status for sildenafil and confirmed it was fillable.\
+n- Agent checked the refill date and quantity allowed.
+\n- Agent attempted to determine the next refill date but encountered system issues.
+\n- Agent discussed options for setting a refill date and confirmed the customer's email address.
+\n- Agent checked the remaining refills and explained the prescription quantity.
+
+\n\nFollow-up:\
+n- The resolution on the customer's query is fulfilled as the agent set the refill date for September 16th.
+
+\n\nSentiment of caller:\
+n- The caller expressed concern about not wanting any problems with the refill and insurance.
+
+\n\n
+entities:
+\n- customer's name: Hasnain
+\n- address: 123 Main Street, Anytown, Hydrabad *****\
+n- medication: PAN 40
+\n- refill date: September 16th
+\n- email address: hasnain@yahoo.com
+\n- doctor: Doctor Smith""]"
+"[""^UUID: 87454858485485^\
+nSummary:\
+nintent of the call:\
+n- Customer called regarding her daughter's prescription.\
+
+n\nsteps taken by agent:\
+n- Verified customer's information and intent of the call.\
+n- Confirmed daughter's date of birth and first name.\
+n- Confirmed customer's address.\
+n- Checked for authorization on file for daughter's prescription.\
+n- Explained the different authorizations for medical and prescription side.\
+n- Checked the pricing and discrepancies for the prescription.\
+n- Advised customer to call in and manually order the medication with the copay card on the 18th.\
+
+n\nFollow-up:\
+n- The resolution is not fulfilled as the agent advised the customer to call in and manually order the medication with the copay card on the 18th.\
+
+n\nSentiment of caller:\
+n- The caller seemed confused and concerned about the pricing discrepancy for the prescription.\
+
+n\n
+entities:\
+n- Customer's name: Md Hasnain\
+n- Daughter's name: Judy\
+n- Address: 123 Main Street, Anytown, Hyderabad\
+n- Medication: Epi pen\
+n- Dosage: 2.0 milligrams once a week\
+n- Copay card\
+n- Fill date: 18th September""]"
