@@ -1,0 +1,7 @@
+.replace(/^"(.+(?="$))"$/, '$1')
+    .replace(/\\n/g, '\n')
+    .replace(
+      /(Summary:|intent of the call:|steps taken by agent:|Follow-up:|Sentiment of caller:|entities:)/g,
+      '<strong>$1</strong>'
+    );
+};
